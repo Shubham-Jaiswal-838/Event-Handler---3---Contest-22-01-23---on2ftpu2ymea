@@ -16,7 +16,7 @@ const App = () => {
       <br/>
 
       <label htmlFor='num-input'>Number input</label>
-      <input id="num-input"  type={'number'} />
+      <input id="num-input"  type={'number'}/>
       <br/>
     </div>
   )
